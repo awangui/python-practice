@@ -1,0 +1,2 @@
+Called function hello result is Hi 
+Called function sum result is 4 
